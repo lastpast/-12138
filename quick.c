@@ -21,7 +21,7 @@ int main()
     quicksort(0, SIZE - 1);
     
     // 打印出来
-    for(int i = 0; i < SIZEn; i++)
+    for(int i = 0; i < SIZE; i++)
         printf("%d  ", a[i]);
     
     return 0;
