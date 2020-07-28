@@ -29,4 +29,7 @@ int main()
     printf("\n%d", num);
     
     return 0;
+	
+	
+	
 }
